@@ -1,4 +1,4 @@
-# Spotify-data-exctraction
+# Spotify-data-extraction
 This script enables you to obtain a list of all the music you've been listening to within a specified time frame(past 24 hours).
 
 A spotify account is needed for this to work( well obviously, haha:)  )
